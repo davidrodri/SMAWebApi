@@ -1,0 +1,11 @@
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\bin\Debug\netcoreapp2.0\SMAWebApi.deps.json
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\bin\Debug\netcoreapp2.0\SMAWebApi.runtimeconfig.json
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\bin\Debug\netcoreapp2.0\SMAWebApi.runtimeconfig.dev.json
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\bin\Debug\netcoreapp2.0\SMAWebApi.dll
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\obj\Debug\netcoreapp2.0\SMAWebApi.csprojAssemblyReference.cache
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\obj\Debug\netcoreapp2.0\SMAWebApi.csproj.CoreCompileInputs.cache
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\obj\Debug\netcoreapp2.0\SMAWebApi.AssemblyInfoInputs.cache
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\obj\Debug\netcoreapp2.0\SMAWebApi.AssemblyInfo.cs
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\bin\Debug\netcoreapp2.0\SMAWebApi.pdb
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\obj\Debug\netcoreapp2.0\SMAWebApi.dll
+C:\Users\David\source\WebApis\SMAWebApi\SMAWebApi\obj\Debug\netcoreapp2.0\SMAWebApi.pdb
